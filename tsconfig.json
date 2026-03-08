@@ -8,8 +8,9 @@
     "strict": false,
     "skipLibCheck": true,
     "baseUrl": ".",
-    "typeRoots": [
-      "./node_modules/@types"
+    "types": [
+      "react",
+      "react-dom"
     ]
   },
   "include": [

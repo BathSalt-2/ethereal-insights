@@ -4,8 +4,7 @@
 
 **The world's first dual-node, cryptographically verifiable paranormal investigation platform.** SPECTER doesn't just measure anomalies — it benchmarks them against certified Quantum Random Number Generator (QRNG) streams using Bell-like statistical tests, cryptographically signs every data block at acquisition, and requires OSF preregistration before investigation begins. Every reported anomaly must survive adversarial scrutiny before it's called one.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-SPECTER%3A%20Ethereal%20Insights-blueviolet?style=for-the-badge)](https://or4cl3-ai-1.github.io/ethereal-insights)
-[![White Paper](https://img.shields.io/badge/White%20Paper-SPECTER%20v1.0-teal?style=for-the-badge)](./SPECTER-white-paper.md)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Ethereal%20Insights-blueviolet?style=for-the-badge)](https://etherealinsights.netlify.app/)
 [![License](https://img.shields.io/badge/License-OOML%20v1.0-teal?style=for-the-badge)](./LICENSE)
 [![Built with React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Powered by Groq](https://img.shields.io/badge/AI-Llama%203.3%2070B%20%C2%B7%20Groq-orange?style=for-the-badge)](https://groq.com)

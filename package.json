@@ -1,6 +1,9 @@
 {
   "private": true,
   "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
     "build": "esbuild app.tsx --bundle --outfile=bundle.js --format=iife --target=es2020 --loader:.css=empty"
   },
   "dependencies": {
